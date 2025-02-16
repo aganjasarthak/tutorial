@@ -4,10 +4,9 @@ from email.mime.text import MIMEText
 sender_email = "sarthak.aganja12345@gmail.com"
 sender_password = " yaha password rakhnu app password"  
 
-# Recipient emails as an array (list)
+# email array banayeko ho hai
 recipients = ["ribikabaral7@gmail.com", "richagurung2007@gmail.com"]
 
-# Email content
 subject = "Simple Test Email"
 body = (
     "Hello,\n\n"
